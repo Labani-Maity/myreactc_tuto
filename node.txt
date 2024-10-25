@@ -1,0 +1,4 @@
+npm: npm is not node package manager but anything else...npm does not have a full form..npm 
+manages packages..need every packages every library these are come from npm..
+
+package.json: is besically a configuration for our npm..
